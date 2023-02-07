@@ -5,7 +5,7 @@
 # Steps to build and run application
     1. open preferefed terminal app
     2. navigate to root of this repo i.e log-analyser
-    3. run ./gradlew clean build
+    3. run ./gradlew clean build (optional step, if there are no new local changes)
     4. navigate to release folder on cli and run below command
     5. java -jar app.jar test-logs.txt 2018-12-09
 
